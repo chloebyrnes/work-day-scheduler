@@ -1,4 +1,4 @@
-// CURRENT DATE
+// CURRENT DATE (vars)
 var currentDay = moment().format('LLLL');
 var now = moment().format('LT');
 
